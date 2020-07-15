@@ -5,7 +5,7 @@
   }
 
   50% {
-    box-shadow: 10px -10px 0 #19c2ae, 0 0 2px rgba(0, 0, 0, 0.12),
+    box-shadow: 10px -10px 0 #cccccc, 0 0 2px rgba(0, 0, 0, 0.12),
       0 2px 4px rgba(0, 0, 0, 0.24);
   }
   to {
@@ -24,7 +24,7 @@ a {
   text-decoration: none;
 }
 .movie-card {
-  background-color: #19c2ae;
+  background-color: #a5d3ce;
   border: 0;
   box-shadow: -10px -10px 0 #59596e, 0 0 2px rgba(0, 0, 0, 0.12),
     0 2px 4px rgba(0, 0, 0, 0.24);
@@ -44,7 +44,7 @@ a {
   cursor: pointer;
   position: relative;
   margin: 1rem auto;
-  color: #19c2ae;
+  color: #ffffff;
   animation-duration: 6s;
   animation-name: hoverslide;
   animation-iteration-count: infinite;
